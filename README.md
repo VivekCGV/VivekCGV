@@ -10,7 +10,7 @@
 <p>- Have React and TypeScript in my breakfast, Tailwind CSS and Next.js in lunch and eh! Redux in dinner 🥂</p>
 <p>- In my brunch, I tried out technologies like Three.js, Framer-motion and Firebase 🍽️</p>
 <p>- Building projects just like having water in a day, yes! I drink and build a lot 🥤🏗️</p>
-<p>- Can't rest my ass all day in chair so I do aerobics every day🤸🏽‍♀️</p>
+
  
 <br>
 	
